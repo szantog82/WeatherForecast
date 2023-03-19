@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WeatherForecast.iml" filepath="$PROJECT_DIR$/WeatherForecast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/WeatherForecast.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/WeatherForecast.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/filechooserdialog-debug/WeatherForecast.filechooserdialog-debug.iml" filepath="$PROJECT_DIR$/.idea/modules/filechooserdialog-debug/WeatherForecast.filechooserdialog-debug.iml" />
+    </modules>
+  </component>
+</project>
